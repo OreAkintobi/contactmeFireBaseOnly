@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228037095481",
+    "firebase_url": "https://contactme-cce7c.firebaseio.com",
+    "project_id": "contactme-cce7c",
+    "storage_bucket": "contactme-cce7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228037095481:android:5809456e4cf710bbb8dde8",
+        "android_client_info": {
+          "package_name": "com.ore.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228037095481-lko3dbjimkb4qhgm2e4ugq6aqh0jeekv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ore.contactapp",
+            "certificate_hash": "a20343ed27f1cb65e2bad9b809548eef5d253064"
+          }
+        },
+        {
+          "client_id": "228037095481-5ddokcg175tc5bdpqmblecaov6ej2nfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGukF-Y6STubgIZj-n4is38ED_gtDlQ94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228037095481-5ddokcg175tc5bdpqmblecaov6ej2nfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
